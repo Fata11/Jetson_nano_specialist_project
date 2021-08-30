@@ -1,5 +1,5 @@
 # Recognize 2000+ faces with your Jetson Nano.
-![output image]( https://qengineering.eu/images/John_Cleese.png )
+
 
 Original repo : https://github.com/Qengineering/Face-Recognition-Jetson-Nano
 
